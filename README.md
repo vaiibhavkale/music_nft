@@ -1,7 +1,7 @@
 # Music NFT
 
 ## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/), should work with any node version below 16.5.0
+- Install [NodeJS](https://nodejs.org/en/), should work with any node version 17.0.1-18.0.0
 - Install [Hardhat](https://hardhat.org/)
 
 ## Setting Up
