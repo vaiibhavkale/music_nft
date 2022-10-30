@@ -9,7 +9,7 @@
 
 ### 2. Install Dependencies:
 ```
-$ cd music_nfts
+go into the repository you clone it into
 $ npm install
 ```
 ### 3. Boot up local development blockchain
