@@ -14,7 +14,6 @@ $ npm install
 ```
 ### 3. Boot up local development blockchain
 ```
-$ cd music_nfts
 $ npx hardhat node
 ```
 ### 4. Connect development blockchain accounts to Metamask
