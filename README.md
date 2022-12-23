@@ -11,6 +11,8 @@
 ```
 go into the repository you clone it into
 $ npm install
+$ npm install react-router-dom
+$ npm install identicon.js
 ```
 ### 3. Boot up local development blockchain
 ```
