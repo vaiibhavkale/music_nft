@@ -6,6 +6,7 @@
 
 ## Setting Up
 ### 1. Clone/Download the Repository
+$ git clone https://github.com/vaiibhavkale/music_nft
 
 ### 2. Install Dependencies:
 ```
